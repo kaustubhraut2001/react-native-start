@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
 conatiner : {
 	// it moves from topto bottom and left to right
 	flex : 1,
-	alignItems : "flex-start", // moves element in left to right
+	alignItems : "center", // moves element in left to right
 	justifyContent : "center", //  works from top to bottom
 },
 textDark : {
